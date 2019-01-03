@@ -1,6 +1,9 @@
 Procedure: Install Anaconda3 
+
 OS: Windows 10(W10 Pro)
+
 System: Intel(i5) 64 bits
+
 
 
 I write this procedure for people which intend to use Anaconda3 on your personal computer/laptop
