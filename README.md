@@ -1,13 +1,14 @@
-I write this procedure for people wich intend to use Anaconda3 on your personal computers/laptops
-(wich finnaly will create one Python environment for Deep or Machine Learning).
+I write this procedure for people which intend to use Anaconda3 on your personal computer/laptop
+(which finally will create one Python environment for Machine [or Deep] Learning).
 
-In my opinion, if intent to work with Anaconda 3(which contain the 'conda' as main tool) you must to 
-uninstall any Python which have installed in the past.
-For that you can use before to uninstall any version of local Python program the following way to find 
-the programs uninstall mangement: 
+In my opinion, if intend to work with Anaconda3(which contain the 'conda.exe' as main tool) you can before 
+uninstall any version of Python[s] which have installed in the past(is important note!).
+For that, you can use before to uninstall any version of local Python program using the following way to find 
+the programs uninstall management from Winsows 10 Pro(W10 Pro): 
     Control Panel -> Programs (the 'Uninstall  a program' option)
 
 Muanual procedure of installment for Anaconda3 consist in the folowing 3-steps:
+
 1) check your hardware(HW) and software(SW) context(to know if apply this manual pocedure):
   go to taskbar on second icon(windows search) from your operation system(Windows 10 Pro) and type 'system'
   and choice to click the 'System Information" apllication and then check to view if have the following context:
