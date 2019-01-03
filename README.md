@@ -13,11 +13,11 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
   go to taskbar on second icon(windows search) from your operation system(Windows 10 Pro) and type 'system'
   and choice to click the 'System Information" apllication and then check to view if have the following context:
   
-  - Operation System(OS Name): Miscosoft(MS) Windows 10 Pro
+  - Operation System(OS Name):   Microsoft(MS) Windows 10 Pro
   ...
   -System Type: x64 based PC
   ...
-  -Processor: Intel(R)...(i5)
+  -Processor:                    Intel(R)...(i5)
   ...
   -Installed Psical Memory(RAM): 8.00 GB (or more)
   ...
@@ -25,8 +25,8 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
   Remark: In fact I have this experiment on my my laptop :
 				...
 				System Model: Inspiron 5567
-				...you 
-		  but I think work on many(or any) machines with Windowns 64-Bit
+				... 
+          but I think work on many(or any) machines with Windowns 64-Bit
 		  
 2) go to any browser(I prefer Chrome but can use any browser) and write this address URL:
          https://www.anaconda.com/download/
