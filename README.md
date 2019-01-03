@@ -2,7 +2,7 @@ Procedure: Install Anaconda3
 
 OS: Windows 10(W10 Pro)
 
-System: Intel(i5) 64 bits
+CPU: Intel(i5) on 64 bits
 
 
 
@@ -35,7 +35,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
   
   ...
   
-  -Processor:                    Intel(R)...(i5)...
+  -Processor:                    Intel(R)...i5...CPU ... 64 bits...
   
   ...
   
