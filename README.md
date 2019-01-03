@@ -131,12 +131,14 @@ the current path where is now located the your user's prompt:
  
     (base) C:\Users\{your username}> conda list anaconda
  and the response for mine is :
-	                                #
+ 
+	                                #					
 					# Name                    Version                   Build  Channel
 					anaconda                  custom                   py37_0
 					anaconda-client           1.7.1                      py_0    conda-forge
 					anaconda-navigator        1.9.6                    py37_0
 					anaconda-project          0.8.2                      py_1    conda-forge
+					
 	
 The docummentation for Anaconda3 can be find at
   https://docs.anaconda.com/
