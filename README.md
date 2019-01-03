@@ -141,7 +141,10 @@ the current path where is now located the your user's prompt:
 					
 	
 The docummentation for Anaconda3 can be find at
-  https://docs.anaconda.com/
+  	https://docs.anaconda.com/
+
+The  conda command reference consult  the document at
+	https://conda.io/docs/commands.html
 
   
   That is all for now!
