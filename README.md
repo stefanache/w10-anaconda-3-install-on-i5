@@ -162,7 +162,7 @@ Remark:
 	
 	I can create with 'conda' and other specific environmet for my application wich my python-application depend.
 	
-	For example I can create one specific environment 'TF-CPU-KS-Py36' named on Python 3.6 based 
+	For example I can create one specific environment 'TF-CPU-KS-Py36' named on Python 3.6 version based 
 	for my application(CPU instead of GPU) which work in particular with Keras (TensorFlow based).
 	
 	
