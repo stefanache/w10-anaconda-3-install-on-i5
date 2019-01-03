@@ -3,6 +3,7 @@ I write this procedure for people which intend to use Anaconda3 on your personal
 
 In my opinion, if intend to work with Anaconda3(which contain the 'conda.exe' as main tool) you can before 
 uninstall any version of Python[s] which have installed in the past(is most important note!).
+
 For that, you can use before to uninstall any version of local Python program using the following way to find 
 the programs uninstall management from Winsows 10 Pro(W10 Pro):
 
