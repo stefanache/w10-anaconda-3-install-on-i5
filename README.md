@@ -23,7 +23,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 
   go to taskbar on second icon(windows search) from your operation system(Windows 10 Pro) and type the word 
   
-  system
+  				   system
    
   and then choice to click on the 'System Information" apllication to check to view if have the following context:
  
