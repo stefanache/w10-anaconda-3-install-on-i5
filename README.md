@@ -38,7 +38,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 				...
 				System Model: Inspiron 5567
 				... 
-          but I think work on many(or any) system with Windowns 64-Bit.
+          but I think work on any(or many) system with Windowns 64-Bit.
 		  
 2) go to any browser(I prefer Chrome but can use any browser) and write this address URL:
          https://www.anaconda.com/download/
@@ -47,7 +47,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
    Waiting and open your c:\Downloads system to see that you finish the download of file named:
          Anaconda3-2018.12-Windows-x86_64.exe
 	
-3) Finally,click on this file Anaconda3...-x86_64.exe crom c:Download directory to start the your installer.
+3) Finally, click on this file Anaconda3...-x86_64.exe from c:Downloads directory to start the your installer.
    Accept all and then click 'Next' to 'Finish' the installment.
    Please Not modify anythink option!
    Normally the directory which contain entire Anaconda3 64 bits will be :
