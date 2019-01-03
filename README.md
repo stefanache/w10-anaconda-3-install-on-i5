@@ -38,7 +38,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 				...
 				System Model: Inspiron 5567
 				... 
-          but I think work on many(or any) machines with Windowns 64-Bit
+          but I think work on many(or any) system with Windowns 64-Bit.
 		  
 2) go to any browser(I prefer Chrome but can use any browser) and write this address URL:
          https://www.anaconda.com/download/
