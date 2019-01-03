@@ -131,9 +131,9 @@ the current path where is now located the your user's prompt:
  
     (base) C:\Users\{your username}> conda list anaconda
  and the response for mine is :
- 
-	                                #					
+ 					
 					# Name                    Version                   Build  Channel
+					
 					anaconda                  custom                   py37_0
 					anaconda-client           1.7.1                      py_0    conda-forge
 					anaconda-navigator        1.9.6                    py37_0
@@ -147,6 +147,7 @@ can show which packages are already in Anaconda3's enviroment(like 'base'):
 which show in mine case this
 
 # Name                    Version                   Build  Channel
+					
 ....
 python                    3.7.1             hc182675_1000    conda-forge
 ...
