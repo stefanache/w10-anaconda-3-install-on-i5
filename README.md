@@ -160,7 +160,7 @@ Remark:
         The channel is one repository/residance/location/server where the 'conda' find the software
 	(like anaconda-clent,navigator,project component,  python package...) when it install in 'base' environment.
 	
-	I can create with 'conda' and other specific environmet for my application wich my python-application depend.
+	I can create with 'conda' and other specific environment for my application wich my python-application depend.
 	
 	For example I can create one specific environment 'TF-CPU-KS-Py36' named on Python 3.6 version based 
 	for my application(CPU instead of GPU) which work (in particular) with Keras package(TensorFlow package based).
