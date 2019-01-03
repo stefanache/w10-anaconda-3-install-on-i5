@@ -158,7 +158,7 @@ python                    3.7.1             hc182675_1000    conda-forge
 
 Remark:
         The channel is one repository/residance/location/server where the 'conda' find the software
-	(like anaconda-clent,navigator,project component,  python package...) when it install in 'base' environment.
+	(like anaconda-clent,navigator,project component,  python package...) when it was installed in 'base' environment.
 	
 	I can create with 'conda' and other specific environment for my application wich my python-application depend.
 	
