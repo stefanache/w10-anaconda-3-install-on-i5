@@ -79,7 +79,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
    is finished.
 	
 3) Finally, click on this file 
-		Anaconda3...-x86_64.exe 
+		Anaconda3...-Windows-x86_64.exe 
    from 
    		c:\Downloads 
    directory to start the Anaconda3's installer.
