@@ -88,7 +88,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
    
    Please 
    
-   		Not modify anythink option!
+   		Not modify anythink option on during installation!
 		
 		
    Normally the directory which contain entire Anaconda3 64 bits will be :
