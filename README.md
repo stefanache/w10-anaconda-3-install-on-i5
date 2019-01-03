@@ -18,13 +18,21 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
   check to view if have the following context:
   
   - Operation System(OS Name):   Microsoft(MS) Windows 10 Pro
+  
   ...
+  
   -System Type: x64 based PC
+  
   ...
+  
   -Processor:                    Intel(R)...(i5)
+  
   ...
-  -Installed Psical Memory(RAM): 8.00 GB (or more)
+  
+  -Installed Psical Memory(RAM): 8.00 GB (or more:)
+  
   ...
+  
   
   Remark: In fact I have this experiment on my my laptop :
 				...
