@@ -34,7 +34,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
    and click on(select) the   '64-Bit Graphical Installer(now it have and show 614.3 MB)'
    under 'Python 3.7 version *'(now refer to Python 3.7.1)
    Waiting and open your c:\Downloads system to see that you finish the download of file named:
-        Anaconda3-2018.12-Windows-x86_64.exe
+         Anaconda3-2018.12-Windows-x86_64.exe
 	
 3) Finally,click on this file Anaconda3...-x86_64.exe crom c:Download directory to start the your installer.
    Accept all and then click 'Next' to 'Finish' the installment.
