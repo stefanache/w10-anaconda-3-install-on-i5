@@ -7,7 +7,7 @@ OS: Windows 10(W10 Pro)
 
 CPU: Intel(i5) on 64 bits
 
-Anaconda is a free, easy-to-install package manager, environment manager and Python distribution with a collection of 1,000+ open source packages with free community support. Anaconda is platform-agnostic, so you can use it whether you are on Windows, macOS or Linux.
+"Anaconda is a free, easy-to-install package manager, environment manager and Python distribution with a collection of 1,000+ open source packages with free community support. Anaconda is platform-agnostic, so you can use it whether you are on Windows, macOS or Linux."
 
 
 
