@@ -52,11 +52,11 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 	 
    and click on(select) the
    
-   	'64-Bit Graphical Installer(now it have and show 614.3 MB)'
+   		'64-Bit Graphical Installer(now it have and show 614.3 MB)'
 	
    under 
    
-   	'Python 3.7 version *'(now refer to Python 3.7.1)
+   		'Python 3.7 version *'(now refer to Python 3.7.1)
 	
    Waiting to finish the download and then
    open your
