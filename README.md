@@ -76,6 +76,6 @@ The docummentation for Anaconda3 can be find at
 
   
   That is all for now!
-  Thanks
+  Thanks.
   
-  ."# w10-anaconda-3-install-on-i5" 
+  # w10-anaconda-3-install-on-i5" 
