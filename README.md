@@ -35,7 +35,8 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
   ...
   
   
-  Remark: In fact I worked with laptop  which have:
+  Remark: 
+  	 In fact I worked with laptop  which have:
   
 				...
 				
