@@ -96,21 +96,31 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
       C:\Users\{your username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
 
 The Anaconda3 have two main components:
+
     Anaconda Navigator and
+    
     Anaconda Prompt
 
 Remarks:
 
-Anaconda Navigator is one GUI=graphical user interface(or interaction) and Anaconda Prompt(my preference) is one client user interface=CLI.
+Anaconda Navigator is one GUI=graphical user interface(or interaction) and 
+
+Anaconda Prompt(my preference) is one client user interface=CLI.
+
+
 The Anaconda Prompt in fact is one terminal window which show you one simple shell prompt like :
 
     (base) C:\Users\{your username} > 
     
-the (base) is name for your current(default) environment and then follow 
-the current path where is now located theyour user=prompt:
+the (base) is name for your current(default) environment and then follow
+
+the current path where is now located the your user's prompt:
     C:\Users\{your username}
+    
  The propmpt for user CLI is '>' where you click to enter your commands for Anaconda3.
- For example you can type this command to know which 'conda' version have installed now:
+ 
+ 
+ For example you can type this command to know which 'conda' version have you installed for now:
  
     (base) C:\Users\{your username}> conda -V
     
