@@ -54,7 +54,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 				
 				...
 				
-          but I think work on any(or many) system with Windowns 64-Bit.
+          but I think work on any(or many) system with Windows 64-Bit.
 		  
 2) go to any browser(I prefer Chrome but can use any browser) and write this address URL:
          https://www.anaconda.com/download/
@@ -78,10 +78,11 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 	 
    is finished.
 	
-3) Finally, click on this file Anaconda3...-x86_64.exe from c:Downloads directory to start the your installer.
-   Accept all and then click 'Next' to 'Finish' the installment.
+3) Finally, click on this file Anaconda3...-x86_64.exe from c:\Downloads directory to start the your installer.
+   Accept all and then click 'Next' to 'Finish' the installation.
    Please Not modify anythink option!
    Normally the directory which contain entire Anaconda3 64 bits will be :
+   
       C:\Users\{your username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)
 
 The Anaconda3 have two main components:
