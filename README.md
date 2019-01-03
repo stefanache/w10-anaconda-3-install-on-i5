@@ -4,6 +4,8 @@ OS: Windows 10(W10 Pro)
 
 CPU: Intel(i5) on 64 bits
 
+Anaconda is a free, easy-to-install package manager, environment manager and Python distribution with a collection of 1,000+ open source packages with free community support. Anaconda is platform-agnostic, so you can use it whether you are on Windows, macOS or Linux.
+
 
 
 I write this procedure for people which intend to use Anaconda3 on your personal computer/laptop
@@ -147,7 +149,6 @@ can show which packages are already in Anaconda3's enviroment(like 'base'):
 which show in mine case this
 
 # Name                    Version                   Build  Channel
-					
 ....
 python                    3.7.1             hc182675_1000    conda-forge
 ...
@@ -156,7 +157,8 @@ Remark:
         The channel is one repository/residance/location/server where the 'conda' find the software
 	(like anaconda-clent,navigator,project component,  python package...) when it install in 'base' environment.
 	I can create with 'conda' and other specific environmet for my application wich my python-application depend.
-	
+	For example I can create one specific environment 'TF-CPU-KS-Py36' named on Python 3.6 based 
+	for my application(CPU instead of GPU) which work in particular with Keras (TensorFlow based).
 	
 The docummentation for Anaconda3 can be find at
   	https://docs.anaconda.com/
