@@ -11,6 +11,7 @@ the programs uninstall management from Winsows 10 Pro(W10 Pro):
 Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
 
 1) check your hardware(HW) and software(SW) context(to know if apply this manual pocedure):
+
   go to taskbar on second icon(windows search) from your operation system(Windows 10 Pro) and type 'system'
   and choice to click the 'System Information" apllication and then check to view if have the following context:
   
