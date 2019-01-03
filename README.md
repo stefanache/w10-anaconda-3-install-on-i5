@@ -139,6 +139,23 @@ the current path where is now located the your user's prompt:
 					anaconda-navigator        1.9.6                    py37_0
 					anaconda-project          0.8.2                      py_1    conda-forge
 					
+The conda.exe program(which in fact is similar with wellknown 'pip' which manage the installment of pachages for any python) 
+can show which packages are already in Anaconda3's enviroment(like 'base'):
+
+    (base) C:\Users\{your username}> conda list
+    
+which show in mine case this
+
+# Name                    Version                   Build  Channel
+....
+python                    3.7.1             hc182675_1000    conda-forge
+...
+
+Remark:
+        The channel is one repository/residance/location/server where the 'conda' find the software
+	(like anaconda-clent,navigator,project component,  python package...) when it install in 'base' environment.
+	I can create with 'conda' and other specific environmet for my application wich my python-application depend.
+	
 	
 The docummentation for Anaconda3 can be find at
   	https://docs.anaconda.com/
