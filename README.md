@@ -58,14 +58,16 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
    
    		'Python 3.7 version *'(now refer to Python 3.7.1)
 	
-   Waiting to finish the download and then
-   open your
+   then waiting to finish the download.
+   After that  open your directory 
    
         c:\Downloads
 	
-   to see that you finish the download of file named:
+   to see if the download of file named:
    
          Anaconda3-2018.12-Windows-x86_64.exe
+	 
+   is finished.
 	
 3) Finally, click on this file Anaconda3...-x86_64.exe from c:Downloads directory to start the your installer.
    Accept all and then click 'Next' to 'Finish' the installment.
