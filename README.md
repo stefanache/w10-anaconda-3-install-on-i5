@@ -39,7 +39,7 @@ Manual procedure of installment for Anaconda3 consist in the folowing 3-steps:
   
   ...
   
-  -Installed Phsical Memory(RAM): 8.00 GB (or more:)
+  -Installed Physical Memory(RAM):  8.00 GB            (or more:)
   
   ...
   
