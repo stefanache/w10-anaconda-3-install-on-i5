@@ -1,5 +1,5 @@
 I write this procedure for people wich intend to use Anaconda3 on your personal computers/laptops
-wich finnaly will create one Python environment for Deep or Machine Learning.
+(wich finnaly will create one Python environment for Deep or Machine Learning).
 
 In my opinion if intent to work with Anaconda 3(whic contain the conda as main tool as any anconda version)
 you must to uninstall any Python wich have installed in the past.
