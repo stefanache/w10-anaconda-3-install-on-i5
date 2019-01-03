@@ -56,14 +56,14 @@ C:\Users\{your username}
  The propmpt for user CLI is '>' where you click to enter your commands for Anaconda3.
  For example you can type this command to know which 'conda' version have installed now:
  
-    (base) C:\Users\{your username}>conda -V
+    (base) C:\Users\{your username}> conda -V
     
  and the response for mine is 
-                                    conda 4.5.12
+                                     conda 4.5.12
 				    
  or if want to know the Anaconda3 version(in fact which versions have all components from Anaconda3) then type:
  
-    (base) C:\Users\{your username}>conda list anaconda
+    (base) C:\Users\{your username}> conda list anaconda
  and the response for mine is :
 	                                #
 					# Name                    Version                   Build  Channel
